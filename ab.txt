@@ -1,0 +1,59 @@
+project
+
+karachi=>admin(main)
+hyd=>forntend
+isl=>backend()
+
+forntned
+backend
+main
+
+vcs
+cvcs=>bank
+dvcs=>git=>branches
+
+git scm download and install
+
+branches
+
+git init
+git status
+git add filename
+git add .
+git commit -m "new image user"
+git branch 
+git remote add origin url
+git push -u origin branchname
+
+move from one branch to other branch:
+git checkout branchname
+
+
+get data from remote (repo):
+git pull
+
+
+git init
+git status
+git add filename
+git add .
+git commit -m "new image user"
+git branch 
+git remote add origin url
+git push -u origin branchname
+
+move from one branch to other branch:
+git checkout branchname
+
+
+get data from remote (repo):
+git folder :git pull
+
+git checkout branchname
+
+
+git merge branchname
+
+:git clone url  
+
+git branch -m branchname
